@@ -42,10 +42,10 @@ $ flutter run
 ## Building the APK
 
 ```bash
-# Generate fat APK
+# Generate fat APK for general mobile specifications
 $ flutter build apk
 
-# Generate three APKs for specific specifications
+# Generate three APKs for specific mobile specifications
 $ flutter build apk --split-per-abi
 ```
 
